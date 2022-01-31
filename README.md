@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Robotics and IoT**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and ROS**
+- 🌱 I’m currently learning **ROS**
 
 - 📫 How to reach me **apiyer2001@gmail.com**
 
