@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Iyer</h1>
 <h3 align="left">Welcome to my GitHub profile</h3>
 
-- 🔭 I’m currently working on **Robotics and IoT**
+- 🔭 I’m currently working on **Robotics,IoT and embedded systems**
 
-- 🌱 I’m currently learning **ROS**
+- 🌱 I’m currently learning **embedded systems**
 
 - 📫 How to reach me **apiyer2001@gmail.com**
 
